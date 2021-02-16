@@ -1,4 +1,10 @@
-### Hi there 👋
+# Olehana France WebView Android APP
+Basic Android app for Olehana FR is completed and for advanced will be completed soon. 
+
+Olehana France is a manufacturing enterprise professional in the research & development design, and manufacturing of cosmetics ODM. Olehana is a professional private label cosmetics China manufacturer. Our factory facility is ISO 22716 certified and complies with Good Manufacturing Practices (GMP), established in 1996. With more than 20 years of R&D experience, we specialize in makeup and skincare products. We continuously uphold the highest quality control and the spirit of creativity and innovation.
+
+Website :  https://www.olehanafrance.com/
+
 
 <!--
 **olehanafrance/olehanafrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
